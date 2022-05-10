@@ -1,2 +1,1 @@
-# technicalTask4
-Node.js (Express) API
+# ES6-Express-Knex-Template
